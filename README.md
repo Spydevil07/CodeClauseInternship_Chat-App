@@ -14,5 +14,5 @@ npm install -D nodemon
 npm install "Module Name"
 node server.js -- to run the project
 
-To run of browser 
+To run on browser 
 http://localhost:3000
