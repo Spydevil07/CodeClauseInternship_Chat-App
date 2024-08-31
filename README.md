@@ -5,6 +5,10 @@ Project Level - Entry Level
 Assigned By- CodeClause Internship
 Assigned To - Rahul Ramesh Khedekar
 
+Aim - Develop a real-time chat application.
+
+Description - Build a simple chat app where users can join different rooms and send messages.
+
 Technologies Used - HTML, CSS, JavaScript, Node.js, WebSockets (Socket.io).
 
 Commands to be executed -
